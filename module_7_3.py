@@ -1,6 +1,3 @@
-from itertools import count
-
-
 class WordsFinder:
     def __init__(self, *file_names):
         self.file_names = file_names
